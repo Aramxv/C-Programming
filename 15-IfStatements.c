@@ -56,5 +56,5 @@ int maxofThreeNum(int firstNum, int secNum, int ThirdNum)
     }
 
     return result;
-    
+
 }
